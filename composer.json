@@ -36,7 +36,7 @@
         "rollbar/rollbar": "1.8.1"
     },
     "require-dev": {
-        "atoum/atoum": "3.3.0",
+        "atoum/atoum": "3.4.2",
         "codacy/coverage": "1.4.2",
         "codeception/codeception": "4.0.2",
         "herloct/codeception-slim-module": "1.1"
